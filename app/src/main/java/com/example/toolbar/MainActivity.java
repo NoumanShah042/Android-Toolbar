@@ -38,8 +38,8 @@ public class MainActivity extends AppCompatActivity {
             case R.id.id_about:
                 Toast.makeText(this, "About", Toast.LENGTH_SHORT).show();
                 break;
-            case R.id.id_setting:
-                Toast.makeText(this, "Setting", Toast.LENGTH_SHORT).show();
+            case R.id.action_image:
+                Toast.makeText(this, "Image Icon", Toast.LENGTH_SHORT).show();
                 break;
             case R.id.id_search:
                 Toast.makeText(this, "Search", Toast.LENGTH_SHORT).show();
